@@ -1,0 +1,33 @@
+/* selector universal*/
+
+*{
+    background:beige;
+}
+
+/* selector por etiqueta*/
+
+h1{
+    background: red ;
+}
+
+h2{
+    background: blue ;
+}
+
+/* selector descendente*/
+
+div p{
+    background: violet ;
+}
+
+/* selector por clase*/
+
+.titulo-uno{
+    background: green;
+}
+
+/* SELECTORES POR id*/
+
+#titulo-dos{
+    background: hotpink ;
+}
